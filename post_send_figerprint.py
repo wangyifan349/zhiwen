@@ -1,3 +1,4 @@
+#pip3 install flask
 from flask import Flask, request
 import sqlite3
 
